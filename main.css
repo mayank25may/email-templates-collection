@@ -206,7 +206,7 @@ a[x-apple-data-detectors=true] {
     font-size: 1rem;
 }
 
-    .tag{
+    #email-template-collection .tag{
       position: relative;
     display: inline-block;
     padding: 5px 12px;
@@ -220,20 +220,20 @@ a[x-apple-data-detectors=true] {
 
     }
 
-    .purple {
+    #email-template-collection .purple {
     background-color: #9C27B0;
 }
 
-.grey {
+#email-template-collection .grey {
     background-color: #9e9e9e;
 }
-.blue {
+#email-template-collection .blue {
     background-color: #3f51b5;
 }
 
-.light-blue {
+#email-template-collection .light-blue {
     background-color: #2196f3;
 }
-.card{
+#email-template-collection .card{
   padding: 5px;
 }
